@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Project>
+   <name>katalon-technical-test</name>
+   <description>Simple Katalon technical test project</description>
+   <tag></tag>
+   <UUID>0f111c56-5a73-4d6f-9a37-801e5826c1b4</UUID>
+   <migratedVersion>10.0.0</migratedVersion>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <projectFileVersion>2</projectFileVersion>
+   <reloadOption>0</reloadOption>
+   <author>Pritisia</author>
+</Project>

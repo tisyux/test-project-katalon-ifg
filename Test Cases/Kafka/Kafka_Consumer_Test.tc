@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Kafka consumer test</description>
+   <name>Kafka_Consumer_Test</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>932fefc4-a731-43ca-b7ec-ea72a4b3942e</testCaseGuid>
+</TestCaseEntity>

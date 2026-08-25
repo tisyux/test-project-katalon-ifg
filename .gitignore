@@ -1,0 +1,23 @@
+# Katalon generated files
+/Reports/
+/Screenshots/
+/bin/
+/Drivers/*.lock
+/.cache/
+/.metadata/
+/.settings/
+/.project
+/.classpath
+
+# Local IDE files
+.idea/
+*.iml
+.DS_Store
+
+# Secrets and local config
+*.env
+*.properties
+!settings.properties
+
+# Logs
+*.log
